@@ -1,5 +1,5 @@
 # Stock-market-prediction-with-LSTM
-This particular project was developed for an intership at Widhya as an final project.
+This particular project was developed for an internship at Widhya as a final project.
 
 financial asymmetry in stock market is big problem.It creates inequality and other issues like market failure,moral hazard, and monopolies etc.
 So, to overcome this issue I have made this LSTM model which would take  all the past information ,create few new columns for analysing and give us a brief idea of the future stock prices.
