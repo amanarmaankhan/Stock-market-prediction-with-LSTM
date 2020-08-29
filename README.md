@@ -7,5 +7,5 @@ So, to overcome this issue I have made this LSTM model which would take  all the
 Firstly I made a basic LSTM model (LSTM-no-TA) ,this would just take the data then analyse it and predict the next data. 
 This wasn’t useful for the cause as it didn’t serve any purpose.
 
-I modified it a lot made various logical changes and made a model(LSTM-endgame) which would predict at least a month forward 
+I modified it a lot made various logical changes and made a model(LSTM-endgame) which would predict at least a month forward. 
 This model is capable of doing its bit for reducing financial asymmetry in the stock market.
